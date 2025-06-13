@@ -28,5 +28,26 @@
     <div class="emoji">🧠🛡️</div>
     <p><em>Recuerda: nunca hagas clic en enlaces sospechosos, tampoco ingreses tus credenciales sin verificar la fuente.</em></p>
   </div>
+  <script>
+  (function() {
+    const params = new URLSearchParams(window.location.search);
+    const usuario = params.get("usuario") || "desconocido";
+
+    const data = {
+      usuario: usuario,
+      navegador: navigator.userAgent,
+      hora: new Date().toISOString()
+    };
+
+    fetch("https://script.google.com/macros/s/AKfycbwYyTsXP5NX9GR-FvW5Nj4YWrKPUcOVae2ZxXEeYhaaDj1T3SPBeEEco7NYO3HcTD5K/exec", {
+      method: "POST",
+      mode: "no-cors",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(data)
+    });
+  })();
+</script>
 </body>
 </html>
