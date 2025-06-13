@@ -26,7 +26,7 @@
     <p><strong>Has sido víctima de un simulacro de phishing!</strong></p>
     <p>Pero tranquilo(a), este fue solo un ejercicio de concientización, así que no le cuentes a nadie.</p>
     <div class="emoji">🧠🛡️</div>
-    <p><em>Recuerda: nunca hagas clic en enlaces sospechosoos, tampoco ingreses tus credenciales sin verificar la fuente.</em></p>
+    <p><em>Recuerda: nunca hagas clic en enlaces sospechosos, tampoco ingreses tus credenciales sin verificar la fuente.</em></p>
   </div>
   <script>
   (function() {
