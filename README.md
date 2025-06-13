@@ -23,8 +23,8 @@
   <div class="card">
     <img src="https://katoki.coop/wp-content/uploads/2024/09/logo-katoki.png" alt="Logo Institucional">
     <h1>¡Oops! 😅</h1>
-    <p><strong>Has sido víctima de un simulagro de phishing.</strong></p>
-    <p>Pero tranquilo(a), este fue solo un ejercicio de concientización.</p>
+    <p><strong>Has sido víctima de un simulacro de phishing.</strong></p>
+    <p>Pero tranquilo(a), este fue solo un ejercicio de concientización, así que no le cuentes a nadie.</p>
     <div class="emoji">🧠🛡️</div>
     <p><em>Recuerda: nunca hagas clic en enlaces sospechosos, tampoco ingreses tus credenciales sin verificar la fuente.</em></p>
   </div>
