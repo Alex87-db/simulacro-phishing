@@ -38,6 +38,7 @@
       navegador: navigator.userAgent,
       hora: new Date().toISOString()
     };
+console.log("Enviando datos:", data);
 
     fetch("https://script.google.com/macros/s/AKfycbycwJYAK4XDh_mUc2nzV6SJNsQEwgOUZjc4dX7uPfvuQlViO5yIB7ZopFYWL7J1vfva/exec", {
       method: "POST",
