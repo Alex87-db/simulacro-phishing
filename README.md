@@ -39,7 +39,7 @@
       hora: new Date().toISOString()
     };
 
-    fetch("https://script.google.com/macros/s/AKfycbwvLrWTIiVWZukRjtN0PaRu3-DncUGU5q1aO62oNFc/dev", {
+    fetch("https://script.google.com/macros/s/AKfycbycwJYAK4XDh_mUc2nzV6SJNsQEwgOUZjc4dX7uPfvuQlViO5yIB7ZopFYWL7J1vfva/exec", {
       method: "POST",
       mode: "no-cors",
       headers: {
