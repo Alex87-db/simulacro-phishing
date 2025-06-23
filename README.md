@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Phishing Simulado</title>
+  <title>.</title>
   <style>
     body { background-color: #f9f9f9; font-family: 'Segoe UI', sans-serif; text-align: center; padding: 60px; }
     .card {
